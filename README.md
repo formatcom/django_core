@@ -21,5 +21,5 @@ _middleware_chain = _get_response
 - [WSGIHandler __call__](https://github.com/django/django/blob/38e2fdadfd9952e751deed662edf4c496d238f28/django/core/handlers/wsgi.py#L138)
 - [WSGIRequest](https://github.com/django/django/blob/38e2fdadfd9952e751deed662edf4c496d238f28/django/core/handlers/wsgi.py#L66)
 - [get_response](https://github.com/django/django/blob/38e2fdadfd9952e751deed662edf4c496d238f28/django/core/handlers/base.py#L73)
-- [_get_response](https://github.com/django/django/blob/38e2fdadfd9952e751deed662edf4c496d238f28/django/core/handlers/base.py#L78)
+- [_get_response](https://github.com/django/django/blob/38e2fdadfd9952e751deed662edf4c496d238f28/django/core/handlers/base.py#L96)
 
